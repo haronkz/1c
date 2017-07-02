@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="zelen">
+			<PolyStyle>
+				<color>df00ff00</color>
+				<fill>1</fill>
+				<outline>0</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark>
+			<name>Астана</name>
+			<visibility>1</visibility>
+			<styleUrl>#zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+71.307106,51.201506
+71.339378,51.251816
+71.448555,51.267715
+71.550865,51.242790
+71.580391,51.192039
+71.614723,51.181710
+71.631889,51.143817
+71.589317,51.089507
+71.566658,51.064486
+71.481514,51.084763
+71.351738,51.081743
+71.342125,51.154155
+71.301613,51.192900
+71.307106,51.201506
+</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
