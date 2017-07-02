@@ -1,12 +1,24 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
-	<Placemark>
-		<name>1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.601030,70.272650
+	<Document>
+		<Style id="zelen">
+			<PolyStyle>
+				<color>df00ff00</color>
+				<fill>1</fill>
+				<outline>0</outline>
+			</PolyStyle>
+		</Style>
+		<Placemark>
+			<name>1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.601030,70.272650
 52.600500,70.271270
 52.600360,70.271050
 52.600100,70.270830
@@ -165,17 +177,21 @@
 52.601590,70.275990
 52.601060,70.272790
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>10</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.572960,70.173440
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>10</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.572960,70.173440
 52.559030,70.168560
 52.558470,70.168340
 52.558410,70.168220
@@ -257,17 +273,21 @@
 52.573150,70.173420
 52.573080,70.173500
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>11</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.571460,70.186330
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>11</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.571460,70.186330
 52.570860,70.190710
 52.570340,70.193770
 52.570100,70.194580
@@ -302,17 +322,21 @@
 52.571570,70.185860
 52.571490,70.186120
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>1-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.223200,69.919170
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>1-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.223200,69.919170
 52.222970,69.916140
 52.222050,69.906800
 52.222060,69.906480
@@ -351,17 +375,21 @@
 52.223610,69.919130
 52.223210,69.919180
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>1-2 1-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.223170,69.919190
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>1-2 1-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.223170,69.919190
 52.223120,69.919180
 52.222180,69.919250
 52.219630,69.919550
@@ -473,17 +501,21 @@
 52.223090,69.918120
 52.223130,69.918690
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>1-5</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.082540,70.030510
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>1-5</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.082540,70.030510
 52.082540,70.026760
 52.082500,70.025010
 52.082370,70.023680
@@ -502,17 +534,21 @@
 52.082510,70.032210
 52.082550,70.030600
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.579940,70.187580
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.579940,70.187580
 52.580630,70.184540
 52.581790,70.179930
 52.583030,70.173880
@@ -639,17 +675,21 @@
 52.579680,70.189240
 52.579580,70.189270
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>2-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.573890,70.188360
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>2-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.573890,70.188360
 52.574680,70.186640
 52.575140,70.185820
 52.575710,70.185610
@@ -676,17 +716,21 @@
 52.571320,70.196630
 52.572480,70.191540
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>26-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.093260,70.018790
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>26-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.093260,70.018790
 52.093300,70.018890
 52.093520,70.019470
 52.093600,70.019850
@@ -740,17 +784,21 @@
 52.092870,70.018000
 52.093070,70.018370
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>26-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.082380,70.092430
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>26-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.082380,70.092430
 52.082400,70.092430
 52.083000,70.092570
 52.083320,70.092650
@@ -838,17 +886,21 @@
 52.082440,70.093420
 52.082370,70.092430
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>26-3(2)</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.082300,70.110960
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>26-3(2)</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.082300,70.110960
 52.082350,70.107330
 52.082430,70.106750
 52.082560,70.106810
@@ -882,17 +934,21 @@
 52.082300,70.111430
 52.082300,70.111060
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>26-5-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.065950,70.070890
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>26-5-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.065950,70.070890
 52.066340,70.070930
 52.066730,70.070930
 52.067860,70.070980
@@ -964,17 +1020,21 @@
 52.065900,70.070890
 52.065920,70.070890
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>26-5-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.070130,70.071010
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>26-5-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.070130,70.071010
 52.080220,70.071380
 52.080320,70.071430
 52.080350,70.071700
@@ -1008,17 +1068,21 @@
 52.069980,70.071060
 52.069980,70.071020
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>28-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.054010,70.022790
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>28-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.054010,70.022790
 52.055880,70.022970
 52.066450,70.023360
 52.066640,70.023390
@@ -1078,17 +1142,21 @@
 52.053450,70.023480
 52.053500,70.023040
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>28-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.039740,70.035430
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>28-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.039740,70.035430
 52.040140,70.035010
 52.041590,70.033700
 52.041660,70.033670
@@ -1127,17 +1195,21 @@
 52.039680,70.041320
 52.039740,70.035650
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>28-2(2)</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.047990,70.027960
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>28-2(2)</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.047990,70.027960
 52.053160,70.023200
 52.053350,70.023080
 52.053410,70.023120
@@ -1195,17 +1267,21 @@
 52.041720,70.033600
 52.042810,70.032610
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>28-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.039710,70.035430
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>28-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.039710,70.035430
 52.039630,70.043410
 52.039300,70.061970
 52.039340,70.065620
@@ -1230,17 +1306,21 @@
 52.032730,70.041590
 52.038710,70.036230
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.591800,70.235820
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.591800,70.235820
 52.588930,70.234030
 52.587370,70.233130
 52.582880,70.230450
@@ -1297,17 +1377,21 @@
 52.592020,70.235540
 52.591840,70.235790
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>32</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.136560,70.063240
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>32</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.136560,70.063240
 52.133770,70.063910
 52.133590,70.063850
 52.132130,70.062340
@@ -1336,17 +1420,21 @@
 52.136740,70.051810
 52.136750,70.063300
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>34</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.095030,70.056610
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>34</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.095030,70.056610
 52.095000,70.055870
 52.094950,70.054880
 52.094920,70.054360
@@ -1413,17 +1501,21 @@
 52.095130,70.058710
 52.095060,70.057250
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>3-4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.135920,70.002860
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>3-4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.135920,70.002860
 52.134850,70.003550
 52.123620,70.011800
 52.118300,70.015860
@@ -1455,17 +1547,21 @@
 52.127350,69.996940
 52.136020,70.002850
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>34 37</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.093070,70.084030
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>34 37</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.093070,70.084030
 52.093050,70.080810
 52.093040,70.077840
 52.093080,70.077710
@@ -1533,17 +1629,21 @@
 52.093150,70.088330
 52.093080,70.088290
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>35-2 36 35-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.140860,70.106030
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>35-2 36 35-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.140860,70.106030
 52.139320,70.106530
 52.137960,70.106840
 52.133360,70.107070
@@ -1631,17 +1731,21 @@
 52.141320,70.101100
 52.141600,70.105930
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>37</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.093510,70.109140
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>37</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.093510,70.109140
 52.093480,70.109080
 52.093460,70.107830
 52.093400,70.104970
@@ -1694,17 +1798,21 @@
 52.094980,70.108610
 52.093560,70.109160
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.591800,70.236090
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.591800,70.236090
 52.590970,70.237960
 52.590340,70.238750
 52.590230,70.238970
@@ -1792,17 +1900,21 @@
 52.591700,70.236000
 52.591810,70.236060
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>42 43-1 43-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.145520,70.141630
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>42 43-1 43-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.145520,70.141630
 52.145570,70.153720
 52.145590,70.158750
 52.145590,70.161780
@@ -1894,17 +2006,21 @@
 52.145250,70.141510
 52.145510,70.141410
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>47-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.176720,70.251060
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>47-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.176720,70.251060
 52.183040,70.251790
 52.186390,70.252320
 52.186440,70.252410
@@ -1956,17 +2072,21 @@
 52.176680,70.252650
 52.176680,70.251030
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>47-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.176650,70.251120
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>47-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.176650,70.251120
 52.176600,70.253180
 52.176380,70.257740
 52.176250,70.260050
@@ -1996,17 +2116,21 @@
 52.168970,70.249960
 52.176650,70.251060
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>48-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.176680,70.250960
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>48-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.176680,70.250960
 52.176670,70.249960
 52.176820,70.246350
 52.176830,70.245000
@@ -2057,17 +2181,21 @@
 52.182410,70.251680
 52.176680,70.251000
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>48-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.176560,70.250990
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>48-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.176560,70.250990
 52.169730,70.250050
 52.168360,70.249860
 52.165400,70.249630
@@ -2100,17 +2228,21 @@
 52.176660,70.249970
 52.176670,70.250990
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>49-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.178110,70.221840
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>49-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.178110,70.221840
 52.178220,70.218640
 52.178680,70.210940
 52.178910,70.209030
@@ -2153,17 +2285,21 @@
 52.179640,70.222230
 52.178100,70.222030
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>49-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.174570,70.221660
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>49-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.174570,70.221660
 52.172810,70.221480
 52.171730,70.221310
 52.169580,70.221020
@@ -2201,17 +2337,21 @@
 52.178550,70.212240
 52.178050,70.222050
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>5</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.557540,70.244360
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>5</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.557540,70.244360
 52.554460,70.243300
 52.553890,70.243050
 52.553710,70.242910
@@ -2255,17 +2395,21 @@
 52.558430,70.244760
 52.558340,70.244750
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>56-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.222920,70.234670
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>56-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.222920,70.234670
 52.222920,70.234100
 52.223040,70.229660
 52.223080,70.228430
@@ -2285,17 +2429,21 @@
 52.222950,70.235220
 52.222910,70.235180
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>56-2 57 56-2 59</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.235640,70.287450
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>56-2 57 56-2 59</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.235640,70.287450
 52.235790,70.290940
 52.233840,70.294570
 52.231880,70.297210
@@ -2426,17 +2574,21 @@
 52.235920,70.286390
 52.235900,70.286420
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>6</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.564470,70.260900
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>6</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.564470,70.260900
 52.563950,70.261130
 52.563080,70.261350
 52.562740,70.261390
@@ -2470,17 +2622,21 @@
 52.575140,70.259510
 52.564600,70.260870
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>61-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.263250,70.262220
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>61-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.263250,70.262220
 52.263200,70.255930
 52.263140,70.254150
 52.263210,70.247610
@@ -2507,17 +2663,21 @@
 52.265710,70.262680
 52.263290,70.262280
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>61-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.256500,70.261860
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>61-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.256500,70.261860
 52.255190,70.261650
 52.254530,70.261640
 52.254450,70.261100
@@ -2549,17 +2709,21 @@
 52.263240,70.262310
 52.263230,70.262340
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>64-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.277220,70.261680
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>64-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.277220,70.261680
 52.277660,70.271260
 52.277550,70.284810
 52.277500,70.286810
@@ -2592,17 +2756,21 @@
 52.277050,70.260680
 52.277160,70.261620
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>7</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.557520,70.263800
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>7</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.557520,70.263800
 52.557450,70.265730
 52.557470,70.268340
 52.557360,70.268610
@@ -2634,17 +2802,21 @@
 52.557740,70.262480
 52.557720,70.262550
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>7-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.558710,70.263150
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>7-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.558710,70.263150
 52.558940,70.263200
 52.559330,70.262960
 52.561020,70.262710
@@ -2701,17 +2873,21 @@
 52.558640,70.269100
 52.558520,70.263060
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>75 80.2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.250370,70.167580
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>75 80.2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.250370,70.167580
 52.250380,70.167730
 52.250250,70.187000
 52.250200,70.187830
@@ -2762,17 +2938,21 @@
 52.249360,70.167730
 52.250370,70.167570
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>77</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.218470,70.122910
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>77</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.218470,70.122910
 52.218610,70.100440
 52.218730,70.090040
 52.219400,70.090040
@@ -2801,17 +2981,21 @@
 52.221790,70.122770
 52.218500,70.122920
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>8</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.554300,70.238440
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>8</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.554300,70.238440
 52.554200,70.238490
 52.554060,70.237230
 52.550530,70.223720
@@ -2829,17 +3013,21 @@
 52.560840,70.213470
 52.554340,70.238320
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>80-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.208110,70.123220
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>80-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.208110,70.123220
 52.207930,70.129470
 52.207750,70.138000
 52.207390,70.147250
@@ -2907,17 +3095,21 @@
 52.202590,70.123240
 52.208110,70.123190
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>9</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.572290,70.181680
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>9</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.572290,70.181680
 52.572390,70.180610
 52.573310,70.174060
 52.575130,70.160060
@@ -2957,17 +3149,21 @@
 52.572370,70.181740
 52.572320,70.181740
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>9 8 7 4 3 2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.217380,70.055550
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>9 8 7 4 3 2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.217380,70.055550
 52.217380,70.054330
 52.217550,70.050610
 52.217880,70.042880
@@ -3019,17 +3215,21 @@
 52.233350,70.066570
 52.217390,70.055700
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№ 20-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.093440,69.911400
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№ 20-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.093440,69.911400
 52.093450,69.908210
 52.093130,69.882820
 52.093080,69.880500
@@ -3064,17 +3264,21 @@
 52.094960,69.912630
 52.093410,69.912650
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№ 21-3 23-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.062870,69.914160
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№ 21-3 23-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.062870,69.914160
 52.062640,69.913970
 52.062510,69.913780
 52.062430,69.913580
@@ -3181,17 +3385,21 @@
 52.063250,69.914260
 52.063010,69.914190
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№ 23-5</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.058910,69.914580
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№ 23-5</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.058910,69.914580
 52.059510,69.937500
 52.059610,69.940240
 52.059630,69.942680
@@ -3224,17 +3432,21 @@
 52.049130,69.915160
 52.058780,69.914580
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№ 25-1 25-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.075240,69.914150
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№ 25-1 25-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.075240,69.914150
 52.075970,69.913990
 52.076290,69.913940
 52.076630,69.913870
@@ -3416,17 +3628,21 @@
 52.074800,69.914390
 52.075080,69.914160
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№ 25-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.073140,69.969880
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№ 25-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.073140,69.969880
 52.073160,69.969240
 52.073140,69.968070
 52.073110,69.966490
@@ -3482,17 +3698,21 @@
 52.079370,69.970100
 52.073130,69.970230
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№ 67 №66</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.277180,70.098850
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№ 67 №66</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.277180,70.098850
 52.277190,70.098540
 52.277280,70.098440
 52.288480,70.105960
@@ -3507,17 +3727,21 @@
 52.276480,70.167850
 52.276030,70.167930
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.543220,70.171070
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.543220,70.171070
 52.543310,70.170890
 52.543430,70.170630
 52.543510,70.170500
@@ -3633,17 +3857,21 @@
 52.543190,70.171660
 52.543200,70.171420
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№10</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.507750,70.175910
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№10</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.507750,70.175910
 52.507660,70.176330
 52.507610,70.176580
 52.507440,70.179110
@@ -3854,17 +4082,21 @@
 52.507600,70.174810
 52.507690,70.175020
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№11</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.473480,70.169670
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№11</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.473480,70.169670
 52.473550,70.169600
 52.473650,70.169410
 52.473700,70.169210
@@ -3980,17 +4212,21 @@
 52.473350,70.169930
 52.473400,70.169700
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№11 кап</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.193160,70.067240
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№11 кап</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.193160,70.067240
 52.193130,70.061610
 52.193220,70.050780
 52.193220,70.041700
@@ -4015,17 +4251,21 @@
 52.196620,70.067320
 52.193160,70.067290
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№11-4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.994440,69.825080
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№11-4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.994440,69.825080
 51.994390,69.824800
 51.994350,69.824340
 51.994200,69.815970
@@ -4056,17 +4296,21 @@
 51.994600,69.825210
 51.994460,69.825160
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№12</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.460860,70.176200
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№12</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.460860,70.176200
 52.460950,70.175860
 52.461210,70.173400
 52.461250,70.173250
@@ -4196,17 +4440,21 @@
 52.460700,70.177040
 52.460800,70.176230
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№12-1-к</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.995400,69.864370
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№12-1-к</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.995400,69.864370
 51.995460,69.865570
 51.995670,69.872550
 51.995830,69.876510
@@ -4244,17 +4492,21 @@
 51.995380,69.864090
 51.995390,69.864250
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№12-2-к</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.976740,69.901100
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№12-2-к</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.976740,69.901100
 51.978210,69.905280
 51.979460,69.908730
 51.980960,69.913140
@@ -4278,17 +4530,21 @@
 51.966250,69.922310
 51.966580,69.921390
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№13</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.460780,70.176230
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№13</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.460780,70.176230
 52.460750,70.176500
 52.460700,70.176840
 52.460660,70.177180
@@ -4360,17 +4616,21 @@
 52.460160,70.176150
 52.460770,70.176200
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№13-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.012540,69.846770
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№13-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.012540,69.846770
 52.012060,69.832360
 52.011770,69.824760
 52.011750,69.823930
@@ -4406,17 +4666,21 @@
 52.012610,69.847220
 52.012600,69.847190
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№13-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.012720,69.847290
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№13-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.012720,69.847290
 52.013250,69.847190
 52.013740,69.847140
 52.014210,69.847120
@@ -4484,17 +4748,21 @@
 52.012650,69.847380
 52.012670,69.847320
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№13-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.044570,69.883940
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№13-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.044570,69.883940
 52.037170,69.884650
 52.031610,69.885070
 52.019950,69.886160
@@ -4522,17 +4790,21 @@
 52.045150,69.883460
 52.045130,69.883850
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№14</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.443810,70.171710
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№14</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.443810,70.171710
 52.443370,70.171530
 52.446300,70.143790
 52.447300,70.133780
@@ -4571,17 +4843,21 @@
 52.457230,70.175300
 52.455250,70.174690
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№14-1 14-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.995400,69.864210
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№14-1 14-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.995400,69.864210
 51.995240,69.862520
 51.995060,69.849060
 51.995090,69.848730
@@ -4689,17 +4965,21 @@
 51.995510,69.866760
 51.995470,69.865350
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№15</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.487170,70.164340
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№15</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.487170,70.164340
 52.486900,70.164200
 52.485600,70.163780
 52.484760,70.163490
@@ -4832,17 +5112,21 @@
 52.487570,70.164170
 52.487390,70.164360
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№15-1</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.044630,69.884040
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№15-1</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.044630,69.884040
 52.044870,69.887740
 52.045260,69.891800
 52.045210,69.892090
@@ -4898,17 +5182,21 @@
 52.044620,69.883970
 52.032240,69.885040
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№15-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.040420,69.922210
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№15-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.040420,69.922210
 52.041070,69.919470
 52.034160,69.918320
 52.028720,69.917730
@@ -4940,17 +5228,21 @@
 52.040180,69.925040
 52.040320,69.923240
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№15-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.023610,69.938270
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№15-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.023610,69.938270
 52.028340,69.938170
 52.038990,69.938110
 52.040380,69.937980
@@ -4990,17 +5282,21 @@
 52.023220,69.938530
 52.023340,69.938310
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№15-4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.028090,69.974020
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№15-4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.028090,69.974020
 52.034030,69.973910
 52.040740,69.973600
 52.040790,69.973770
@@ -5031,17 +5327,21 @@
 52.027540,69.978030
 52.028040,69.974030
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№16</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.509730,70.125990
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№16</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.509730,70.125990
 52.510360,70.124790
 52.513420,70.118750
 52.516310,70.112830
@@ -5093,17 +5393,21 @@
 52.512240,70.129360
 52.510290,70.126770
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№1-6</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.082530,70.035100
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№1-6</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.082530,70.035100
 52.084160,70.034940
 52.086290,70.034890
 52.086830,70.034910
@@ -5130,17 +5434,21 @@
 52.082270,70.038770
 52.082430,70.035130
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№16-1 14-4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.005990,69.934700
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№16-1 14-4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.005990,69.934700
 51.999840,69.934890
 51.999610,69.934860
 51.999530,69.934760
@@ -5189,17 +5497,21 @@
 52.020340,69.934230
 52.020230,69.934360
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№16-3 16-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.020380,69.934630
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№16-3 16-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.020380,69.934630
 52.020910,69.940010
 52.022310,69.953140
 52.022430,69.953780
@@ -5242,17 +5554,21 @@
 52.012780,69.934670
 52.007290,69.934800
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№16-к</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.001680,69.974800
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№16-к</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.001680,69.974800
 52.001950,69.974860
 52.003840,69.974830
 52.004610,69.974740
@@ -5299,17 +5615,21 @@
 52.002110,69.978980
 52.001620,69.974810
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№17</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.509580,70.125850
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№17</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.509580,70.125850
 52.505080,70.120150
 52.500880,70.114500
 52.500820,70.114310
@@ -5351,17 +5671,21 @@
 52.510120,70.125250
 52.509650,70.126070
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№17-1 17-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.998190,69.898440
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№17-1 17-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.998190,69.898440
 51.998390,69.901420
 51.998640,69.908050
 51.998720,69.912520
@@ -5397,17 +5721,21 @@
 51.997780,69.894370
 51.997790,69.894390
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№17-4 17-5</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.997870,69.982310
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№17-4 17-5</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.997870,69.982310
 51.997850,69.982720
 51.997870,69.983660
 51.998270,69.986120
@@ -5481,17 +5809,21 @@
 51.998080,69.979640
 51.997900,69.981880
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№18-к</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.998570,69.987930
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№18-к</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.998570,69.987930
 51.999470,69.989150
 51.999780,69.989470
 52.000180,69.989760
@@ -5538,17 +5870,21 @@
 51.998600,69.988650
 51.998450,69.987770
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.545380,70.175070
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.545380,70.175070
 52.545850,70.175640
 52.546070,70.175920
 52.546280,70.176200
@@ -5718,17 +6054,21 @@
 52.545280,70.174960
 52.545320,70.174990
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№20-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.114590,69.911620
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№20-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.114590,69.911620
 52.114490,69.907110
 52.114440,69.906940
 52.114370,69.906920
@@ -5776,17 +6116,21 @@
 52.115320,69.911790
 52.114640,69.911700
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№22-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.061260,69.847930
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№22-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.061260,69.847930
 52.061240,69.848190
 52.061160,69.848280
 52.054930,69.848120
@@ -5808,17 +6152,21 @@
 52.061000,69.819140
 52.061060,69.826280
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№22-4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.046470,69.819720
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№22-4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.046470,69.819720
 52.046550,69.819740
 52.046520,69.820320
 52.046560,69.821780
@@ -5839,17 +6187,21 @@
 52.039480,69.820280
 52.042910,69.819910
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№22-5</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.061130,69.881690
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№22-5</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.061130,69.881690
 52.049460,69.882160
 52.049040,69.882170
 52.048320,69.882050
@@ -5902,17 +6254,21 @@
 52.061670,69.881720
 52.061480,69.881690
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№23-3 25-4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.069010,69.970330
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№23-3 25-4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.069010,69.970330
 52.060520,69.970750
 52.060240,69.970710
 52.060130,69.970480
@@ -5955,17 +6311,21 @@
 52.073110,69.968530
 52.073080,69.970320
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№23-4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.048760,69.915160
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№23-4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.048760,69.915160
 52.048660,69.914790
 52.048460,69.913870
 52.048100,69.911940
@@ -6065,17 +6425,21 @@
 52.050120,69.915060
 52.049110,69.915110
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№24-2 24-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.094430,69.972900
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№24-2 24-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.094430,69.972900
 52.094360,69.966720
 52.093890,69.947020
 52.093890,69.946830
@@ -6126,17 +6490,21 @@
 52.098400,69.975540
 52.094490,69.973110
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№24-4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.093840,69.944120
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№24-4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.093840,69.944120
 52.093850,69.943560
 52.093840,69.940970
 52.093380,69.920990
@@ -6186,17 +6554,21 @@
 52.096140,69.944000
 52.093950,69.944120
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№25-5</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.060050,69.970740
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№25-5</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.060050,69.970740
 52.060030,69.970770
 52.059970,69.970810
 52.058950,69.970810
@@ -6219,17 +6591,21 @@
 52.060040,69.961700
 52.060080,69.970710
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№26-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.082590,70.071340
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№26-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.082590,70.071340
 52.082650,70.071400
 52.082970,70.071410
 52.083950,70.071460
@@ -6269,17 +6645,21 @@
 52.082500,70.072050
 52.082560,70.071370
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№26-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.082340,70.115430
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№26-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.082340,70.115430
 52.083610,70.115770
 52.084520,70.115830
 52.085060,70.115970
@@ -6325,17 +6705,21 @@
 52.082060,70.130170
 52.082300,70.116060
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№28 17 30 29</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.164500,70.098730
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№28 17 30 29</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.164500,70.098730
 52.163180,70.099030
 52.162750,70.099280
 52.162470,70.099630
@@ -6366,17 +6750,21 @@
 52.164860,70.098150
 52.164650,70.098690
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.531410,70.203390
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.531410,70.203390
 52.531470,70.203460
 52.533010,70.205650
 52.533720,70.206840
@@ -6496,17 +6884,21 @@
 52.530910,70.204500
 52.531190,70.203850
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№33 31</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.136700,70.028330
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№33 31</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.136700,70.028330
 52.136280,70.028580
 52.114690,70.044500
 52.113200,70.045550
@@ -6532,17 +6924,21 @@
 52.136850,70.003570
 52.136810,70.028320
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№38</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.110850,70.142530
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№38</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.110850,70.142530
 52.094980,70.143080
 52.094900,70.142940
 52.095180,70.138350
@@ -6567,17 +6963,21 @@
 52.111070,70.127250
 52.111040,70.142550
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№39</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.127080,70.141940
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№39</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.127080,70.141940
 52.124580,70.141990
 52.123480,70.142080
 52.123010,70.142030
@@ -6607,17 +7007,21 @@
 52.126830,70.130660
 52.126990,70.132510
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№4</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.507230,70.187750
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№4</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.507230,70.187750
 52.507270,70.187830
 52.507360,70.187960
 52.512130,70.194450
@@ -6685,17 +7089,21 @@
 52.507190,70.187860
 52.507200,70.187720
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№40</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.127110,70.141860
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№40</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.127110,70.141860
 52.127070,70.138840
 52.126910,70.122940
 52.126890,70.118980
@@ -6758,17 +7166,21 @@
 52.127810,70.141960
 52.127120,70.141940
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№41</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.145620,70.128950
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№41</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.145620,70.128950
 52.146820,70.128290
 52.150190,70.126590
 52.154620,70.124290
@@ -6804,17 +7216,21 @@
 52.145460,70.129230
 52.145540,70.129110
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№44</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.144470,70.172720
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№44</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.144470,70.172720
 52.144500,70.173180
 52.144920,70.175240
 52.145210,70.177580
@@ -6844,17 +7260,21 @@
 52.131980,70.173600
 52.143720,70.173060
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№45</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.147400,70.204750
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№45</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.147400,70.204750
 52.147350,70.218630
 52.147360,70.225960
 52.147300,70.227120
@@ -6899,17 +7319,21 @@
 52.144310,70.204710
 52.147410,70.204680
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№46</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.148230,70.234000
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№46</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.148230,70.234000
 52.151040,70.232400
 52.151550,70.232650
 52.151640,70.232620
@@ -6976,17 +7400,21 @@
 52.147430,70.234390
 52.148150,70.234040
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№5</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.507870,70.175960
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№5</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.507870,70.175960
 52.508000,70.174640
 52.508430,70.170550
 52.508550,70.170120
@@ -7090,17 +7518,21 @@
 52.507870,70.177100
 52.507870,70.176810
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№50</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.179890,70.195380
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№50</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.179890,70.195380
 52.179340,70.190910
 52.178300,70.183570
 52.177000,70.176100
@@ -7144,17 +7576,21 @@
 52.183030,70.196960
 52.179890,70.195670
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№51</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.205130,70.237670
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№51</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.205130,70.237670
 52.195060,70.236850
 52.194670,70.236700
 52.194460,70.236420
@@ -7180,17 +7616,21 @@
 52.205610,70.224580
 52.205190,70.237640
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№52</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.205180,70.237810
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№52</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.205180,70.237810
 52.204960,70.243740
 52.204490,70.254020
 52.204390,70.257180
@@ -7253,17 +7693,21 @@
 52.194520,70.236850
 52.205180,70.237770
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№53</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.201880,70.282210
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№53</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.201880,70.282210
 52.211760,70.283140
 52.214630,70.283210
 52.216630,70.283400
@@ -7299,17 +7743,21 @@
 52.201850,70.283950
 52.201780,70.282180
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№5-3</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.979700,70.011660
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№5-3</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.979700,70.011660
 51.979660,70.011610
 51.978950,70.010520
 51.978460,70.009570
@@ -7337,17 +7785,21 @@
 51.979890,70.008300
 51.979690,70.011590
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№54</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.205260,70.237770
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№54</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.205260,70.237770
 52.214130,70.238380
 52.219430,70.238840
 52.221130,70.239120
@@ -7383,17 +7835,21 @@
 52.204990,70.243980
 52.205220,70.237770
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№54-2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.204330,70.258810
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№54-2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.204330,70.258810
 52.205440,70.258720
 52.206230,70.258850
 52.209200,70.259140
@@ -7451,17 +7907,21 @@
 52.204330,70.260010
 52.204300,70.258830
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№55</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.205220,70.237670
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№55</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.205220,70.237670
 52.205390,70.231750
 52.205420,70.230810
 52.205610,70.225580
@@ -7498,17 +7958,21 @@
 52.219450,70.238830
 52.216200,70.238460
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№6</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.512870,70.161330
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№6</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.512870,70.161330
 52.513050,70.160880
 52.515810,70.155960
 52.515920,70.155680
@@ -7592,17 +8056,21 @@
 52.516720,70.166870
 52.514770,70.164180
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№60</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.238460,70.260360
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№60</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.238460,70.260360
 52.238460,70.256010
 52.238150,70.249610
 52.237810,70.246330
@@ -7630,17 +8098,21 @@
 52.245510,70.261020
 52.238480,70.260430
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№62</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.263360,70.262420
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№62</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.263360,70.262420
 52.272610,70.263930
 52.272670,70.264000
 52.272680,70.264130
@@ -7676,17 +8148,21 @@
 52.263390,70.263930
 52.263310,70.262390
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№65</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.276080,70.167970
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№65</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.276080,70.167970
 52.276480,70.167970
 52.277280,70.167770
 52.289480,70.167830
@@ -7714,17 +8190,21 @@
 52.276040,70.168010
 52.276040,70.167970
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№68</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.263410,70.122260
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№68</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.263410,70.122260
 52.271550,70.122460
 52.275090,70.122620
 52.276470,70.122590
@@ -7757,17 +8237,21 @@
 52.263320,70.124620
 52.263310,70.122210
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№69</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.276000,70.168060
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№69</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.276000,70.168060
 52.275260,70.212980
 52.275260,70.213320
 52.275160,70.213420
@@ -7795,17 +8279,21 @@
 52.274390,70.167980
 52.276000,70.167970
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№7</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.535380,70.160140
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№7</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.535380,70.160140
 52.537820,70.155180
 52.537970,70.154860
 52.538130,70.154470
@@ -7899,17 +8387,21 @@
 52.535300,70.160310
 52.535310,70.160270
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№70</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.250570,70.167590
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№70</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.250570,70.167590
 52.252240,70.167680
 52.261590,70.167730
 52.263230,70.167610
@@ -7935,17 +8427,21 @@
 52.250230,70.191980
 52.250400,70.167570
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№71</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.263290,70.122360
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№71</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.263290,70.122360
 52.263270,70.146080
 52.263310,70.150030
 52.263310,70.167280
@@ -7967,17 +8463,21 @@
 52.255440,70.122360
 52.263290,70.122210
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№72</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.250500,70.122310
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№72</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.250500,70.122310
 52.250480,70.119230
 52.250670,70.118370
 52.250490,70.117710
@@ -8008,17 +8508,21 @@
 52.263320,70.122170
 52.253540,70.122260
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№73</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.236790,70.122550
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№73</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.236790,70.122550
 52.236810,70.118820
 52.237050,70.106150
 52.237200,70.098670
@@ -8075,17 +8579,21 @@
 52.236940,70.122520
 52.236820,70.122550
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№76</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.222450,70.122970
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№76</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.222450,70.122970
 52.224480,70.123140
 52.225280,70.123080
 52.226890,70.122710
@@ -8113,17 +8621,21 @@
 52.222280,70.166270
 52.222380,70.122900
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№78</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.199990,70.123190
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№78</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.199990,70.123190
 52.200050,70.122330
 52.200280,70.114600
 52.200430,70.114290
@@ -8159,17 +8671,21 @@
 52.200180,70.123260
 52.199960,70.123210
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№79</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.222320,70.123010
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№79</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.222320,70.123010
 52.222270,70.158710
 52.222260,70.163940
 52.222260,70.166390
@@ -8200,17 +8716,21 @@
 52.216370,70.123000
 52.222320,70.122940
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№8</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.522190,70.142390
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№8</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.522190,70.142390
 52.522470,70.141790
 52.523170,70.140390
 52.523520,70.139700
@@ -8368,17 +8888,21 @@
 52.522200,70.142630
 52.522120,70.142520
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№82</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.317240,70.167930
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№82</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.317240,70.167930
 52.305190,70.167930
 52.290570,70.167740
 52.290400,70.167710
@@ -8404,17 +8928,21 @@
 52.317260,70.156950
 52.317310,70.167910
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№83</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.317370,70.168620
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№83</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.317370,70.168620
 52.317360,70.174700
 52.317260,70.183120
 52.317190,70.195520
@@ -8431,17 +8959,21 @@
 52.302060,70.167970
 52.317070,70.168000
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№84</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.317190,70.195770
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№84</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.317190,70.195770
 52.317080,70.199080
 52.316860,70.215620
 52.316990,70.219740
@@ -8483,17 +9015,21 @@
 52.314890,70.195710
 52.317190,70.195640
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№85</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.317230,70.195650
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№85</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.317230,70.195650
 52.317240,70.195640
 52.321230,70.195640
 52.322090,70.195610
@@ -8550,17 +9086,21 @@
 52.316990,70.211710
 52.317120,70.199820
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№86</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.317400,70.167970
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№86</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.317400,70.167970
 52.341160,70.167860
 52.341490,70.167860
 52.341590,70.167960
@@ -8583,17 +9123,21 @@
 52.317390,70.169020
 52.317380,70.167900
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№9</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.508370,70.170020
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№9</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.508370,70.170020
 52.508320,70.170200
 52.507740,70.169890
 52.507030,70.169600
@@ -8723,17 +9267,21 @@
 52.508910,70.168560
 52.508480,70.169540
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>№9№8№7№4№3№2,</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.217240,70.055480
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>№9№8№7№4№3№2,</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.217240,70.055480
 52.212970,70.052550
 52.212800,70.052330
 52.212220,70.051280
@@ -8816,17 +9364,21 @@
 52.217550,70.050490
 52.217310,70.055480
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Б\н</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.179630,70.196220
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Б\н</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.179630,70.196220
 52.178850,70.196390
 52.175230,70.198540
 52.173000,70.200000
@@ -8847,17 +9399,21 @@
 52.179650,70.194530
 52.179710,70.196140
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>б\н2</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.110690,70.090700
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>б\н2</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.110690,70.090700
 52.110820,70.089000
 52.110800,70.088660
 52.110120,70.082290
@@ -8902,17 +9458,21 @@
 52.111480,70.090660
 52.110890,70.090740
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Бетеге-У</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.621114,69.856492
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Бетеге-У</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.621114,69.856492
 51.621114,69.856535
 51.620651,69.858761
 51.619365,69.860017
@@ -8936,17 +9496,21 @@
 51.619867,69.855851
 51.621069,69.856506
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Кап № 14</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.179380,70.111060
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Кап № 14</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.179380,70.111060
 52.179400,70.111120
 52.178220,70.110980
 52.174620,70.111000
@@ -9002,17 +9566,21 @@
 52.179280,70.110030
 52.179310,70.110870
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап №10</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.193360,70.004940
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап №10</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.193360,70.004940
 52.193730,70.004820
 52.197500,70.004500
 52.206300,70.003800
@@ -9049,17 +9617,21 @@
 52.193340,70.015440
 52.193350,70.004950
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап №16</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.193200,70.039450
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап №16</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.193200,70.039450
 52.187330,70.035430
 52.179580,70.030180
 52.179670,69.998910
@@ -9077,17 +9649,21 @@
 52.193230,70.037810
 52.193220,70.038620
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап №17</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.193260,69.998580
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап №17</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.193260,69.998580
 52.192530,69.998590
 52.192360,69.998580
 52.188960,69.998520
@@ -9148,17 +9724,21 @@
 52.193320,69.995730
 52.193330,69.998610
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап №22</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.151390,69.981560
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап №22</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.151390,69.981560
 52.165390,69.990940
 52.165440,69.990980
 52.165450,69.990980
@@ -9183,17 +9763,21 @@
 52.151240,69.992690
 52.151260,69.981490
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап №23</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.151260,69.981300
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап №23</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.151260,69.981300
 52.151350,69.958400
 52.151340,69.948470
 52.151460,69.948290
@@ -9230,17 +9814,21 @@
 52.160830,69.987830
 52.151260,69.981440
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап №25</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.136940,70.001220
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап №25</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.136940,70.001220
 52.136950,69.994020
 52.136910,69.993720
 52.136740,69.993160
@@ -9269,17 +9857,21 @@
 52.150610,70.010550
 52.137160,70.001350
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап №5</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.193340,69.969660
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап №5</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.193340,69.969660
 52.193430,69.953300
 52.193370,69.950030
 52.193380,69.946260
@@ -9304,17 +9896,21 @@
 52.199670,69.969240
 52.193390,69.969680
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Кап №6</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.193390,70.004760
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Кап №6</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.193390,70.004760
 52.193340,69.969730
 52.193410,69.969710
 52.199560,69.969290
@@ -9337,17 +9933,21 @@
 52.206350,70.003760
 52.194490,70.004730
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап№ 21</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.165470,69.990990
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап№ 21</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.165470,69.990990
 52.165510,69.991020
 52.167110,69.992110
 52.176140,69.998170
@@ -9384,17 +9984,21 @@
 52.165220,70.020240
 52.165450,69.991280
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап№13</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.193130,70.084060
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап№13</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.193130,70.084060
 52.193060,70.103150
 52.192810,70.108860
 52.192630,70.110050
@@ -9415,17 +10019,21 @@
 52.182450,70.077750
 52.193110,70.079280
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап№20</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.165480,69.990770
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап№20</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.165480,69.990770
 52.165520,69.990030
 52.165560,69.986170
 52.165750,69.950880
@@ -9454,17 +10062,21 @@
 52.178500,69.999710
 52.165470,69.990940
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап№24</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.151200,69.981400
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап№24</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.151200,69.981400
 52.141230,69.974890
 52.136650,69.971740
 52.136660,69.971660
@@ -9494,17 +10106,21 @@
 52.151240,69.980300
 52.151230,69.981430
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>кап№26</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.136680,70.001120
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>кап№26</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.136680,70.001120
 52.136590,70.001030
 52.128170,69.995360
 52.125320,69.993370
@@ -9534,17 +10150,21 @@
 52.136630,69.975510
 52.136730,70.001150
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Ку77</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.152550,70.083320
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ку77</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.152550,70.083320
 52.151450,70.086870
 52.151400,70.086960
 52.151240,70.087030
@@ -9556,17 +10176,21 @@
 52.146110,70.075050
 52.152590,70.083250
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>МТМ с.Журавлевка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.947909,69.945306
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>МТМ с.Журавлевка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.947909,69.945306
 51.947750,69.943160
 51.948068,69.942559
 51.948425,69.941937
@@ -9586,17 +10210,21 @@
 51.947763,69.945928
 51.947750,69.945606
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>МТМ с.Капитоновка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.181396,70.136274
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>МТМ с.Капитоновка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.181396,70.136274
 52.181317,70.136628
 52.181172,70.136949
 52.180823,70.137228
@@ -9638,17 +10266,21 @@
 52.181231,70.135415
 52.181343,70.135877
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Огород с.Воробьевка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.879180,69.829853
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Огород с.Воробьевка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.879180,69.829853
 51.877114,69.829080
 51.874199,69.828222
 51.872980,69.829381
@@ -9683,17 +10315,21 @@
 51.876981,69.834487
 51.879286,69.830754
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Стан с.Белоцирковка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.517101,70.253735
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Стан с.Белоцирковка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.517101,70.253735
 52.517221,70.251938
 52.517750,70.252089
 52.518299,70.252325
@@ -9702,17 +10338,21 @@
 52.517907,70.253365
 52.517868,70.253923
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Ток с.Журавлевка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.952776,69.947494
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ток с.Журавлевка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.952776,69.947494
 51.954098,69.945778
 51.954759,69.946829
 51.956307,69.949168
@@ -9729,17 +10369,21 @@
 51.954535,69.951421
 51.953635,69.949533
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Ток с.Капитоновка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.169579,70.105568
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ток с.Капитоновка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.169579,70.105568
 52.166695,70.105678
 52.166705,70.106815
 52.167078,70.106640
@@ -9750,17 +10394,21 @@
 52.169684,70.111522
 52.170112,70.110288
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Ток с.Ярославка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.994599,69.952687
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ток с.Ярославка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.994599,69.952687
 51.996237,69.950927
 51.998681,69.955734
 52.000306,69.958395
@@ -9783,17 +10431,21 @@
 51.994956,69.957279
 51.994837,69.955519
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Ферма с.Воробьевка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.899171,69.832803
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ферма с.Воробьевка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.899171,69.832803
 51.900058,69.832331
 51.901408,69.831795
 51.902335,69.831344
@@ -9813,33 +10465,41 @@
 51.901144,69.838618
 51.900230,69.836000
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Ферма с.Капитоновка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.186280,70.115401
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ферма с.Капитоновка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.186280,70.115401
 52.181544,70.118426
 52.182596,70.123211
 52.183030,70.125443
 52.188293,70.122868
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Октябырьский</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.694812,70.352175
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Октябырьский</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.694812,70.352175
 51.699787,70.357969
 51.703417,70.362282
 51.698111,70.365651
@@ -9850,17 +10510,21 @@
 51.690130,70.353720
 51.693615,70.351617
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>ХПП Арна</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.615338,70.434020
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ХПП Арна</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.615338,70.434020
 52.614680,70.432110
 52.611664,70.435833
 52.611534,70.435866
@@ -9869,17 +10533,21 @@
 52.609775,70.437142
 52.611045,70.438870
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>ХПП Зеленое</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.447582,69.778236
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ХПП Зеленое</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.447582,69.778236
 51.450804,69.786454
 51.452008,69.785768
 51.452396,69.787034
@@ -9897,17 +10565,21 @@
 51.449180,69.775779
 51.448297,69.776981
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>ХПП Кара-Адырь</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.483100,70.354568
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ХПП Кара-Адырь</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.483100,70.354568
 51.481964,70.359610
 51.481737,70.360619
 51.481176,70.363559
@@ -9925,17 +10597,21 @@
 51.484997,70.354117
 51.484035,70.354439
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Карьер Колоколовка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.574836,70.263402
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Карьер Колоколовка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.574836,70.263402
 52.575269,70.263343
 52.575445,70.264116
 52.575579,70.265119
@@ -9946,17 +10622,21 @@
 52.574040,70.265585
 52.574288,70.263622
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Петровка (Андреевка)</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.639142,70.443864
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Петровка (Андреевка)</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.639142,70.443864
 51.645640,70.445666
 51.640420,70.458455
 51.637118,70.457597
@@ -9971,17 +10651,21 @@
 51.636638,70.443864
 51.638023,70.443950
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>ХПП Андреевка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.670985,70.396228
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ХПП Андреевка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.670985,70.396228
 51.673274,70.399232
 51.674658,70.414510
 51.653629,70.427985
@@ -9989,17 +10673,21 @@
 51.659539,70.413566
 51.662520,70.404468
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Астана</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.201506,71.307106
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Астана</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.201506,71.307106
 51.251816,71.339378
 51.267715,71.448555
 51.242790,71.550865
@@ -10013,17 +10701,21 @@
 51.154155,71.342125
 51.192900,71.301613
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>ХП Мариновский</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.794344,69.167486
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ХП Мариновский</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.794344,69.167486
 51.797370,69.169482
 51.798099,69.170383
 51.798630,69.172314
@@ -10035,17 +10727,21 @@
 51.793163,69.168710
 51.793707,69.167958
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Егиндыколь (Краснознаменка)</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.043526,69.458098
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Егиндыколь (Краснознаменка)</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.043526,69.458098
 51.050325,69.450974
 51.053184,69.452262
 51.063110,69.472260
@@ -10059,34 +10755,42 @@
 51.044659,69.472260
 51.044227,69.464192
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Иванковка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.295751,70.076680
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Иванковка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.295751,70.076680
 52.284516,70.076594
 52.277585,70.071273
 52.272648,70.083804
 52.284779,70.093246
 52.293284,70.083804
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>C.Новодонецк</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.079691,69.974070
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C.Новодонецк</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.079691,69.974070
 52.085809,69.978361
 52.084596,69.981709
 52.088762,69.985228
@@ -10097,17 +10801,21 @@
 52.075734,69.976645
 52.078319,69.973726
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>С.Лозовое</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.308109,70.047970
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>С.Лозовое</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.308109,70.047970
 51.314440,70.059643
 51.315298,70.072947
 51.309879,70.081015
@@ -10115,63 +10823,79 @@
 51.306982,70.066338
 51.302743,70.053377
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>С. Камышенка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.265835,70.154228
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>С. Камышенка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.265835,70.154228
 51.278401,70.160751
 51.269809,70.194569
 51.261002,70.191307
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>С. Кайнар</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.158197,71.107357
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>С. Кайнар</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.158197,71.107357
 52.160382,71.109116
 52.159250,71.112399
 52.157065,71.111991
 52.157249,71.109374
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>ТОО Кумайское</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.905162,66.910729
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>ТОО Кумайское</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.905162,66.910729
 51.908233,66.913776
 51.905347,66.923518
 51.902037,66.920557
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Шортанды</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.696847,70.974855
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Шортанды</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.696847,70.974855
 51.707326,70.978889
 51.711528,70.991163
 51.712219,71.004210
@@ -10180,17 +10904,21 @@
 51.682534,71.024466
 51.687643,70.978203
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>г. Кокшетау</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>53.299594,69.331970
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>г. Кокшетау</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>53.299594,69.331970
 53.286666,69.356689
 53.301646,69.381065
 53.315596,69.374886
@@ -10201,17 +10929,21 @@
 53.246420,69.353600
 53.272502,69.334030
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>с. Вознесенка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.396423,70.198088
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>с. Вознесенка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.396423,70.198088
 52.402497,70.204697
 52.417105,70.211306
 52.414959,70.230188
@@ -10220,17 +10952,21 @@
 52.399251,70.224009
 52.393123,70.211220
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>c. Астраханка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.535939,69.815197
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>c. Астраханка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.535939,69.815197
 51.540930,69.792666
 51.542051,69.782882
 51.535832,69.774985
@@ -10246,17 +10982,21 @@
 51.519385,69.806356
 51.527956,69.810863
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>c. Петровка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>53.613959,70.451975
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>c. Петровка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>53.613959,70.451975
 53.621341,70.456824
 53.615588,70.479569
 53.609605,70.475535
@@ -10265,34 +11005,42 @@
 53.609962,70.455837
 53.612024,70.453863
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>с. Викторовка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.763801,69.128122
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>с. Викторовка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.763801,69.128122
 52.768319,69.123573
 52.760009,69.107094
 52.739799,69.101858
 52.733095,69.114819
 52.739592,69.117994
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>с. Урумкай  (ТОО Алтын-Бидай 2020)</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.704098,69.983940
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>с. Урумкай  (ТОО Алтын-Бидай 2020)</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.704098,69.983940
 52.709688,69.983425
 52.711040,70.002823
 52.701966,70.013294
@@ -10301,17 +11049,21 @@
 52.698169,69.999776
 52.695256,69.990163
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>C. Николаевка</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.468547,69.630833
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C. Николаевка</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.468547,69.630833
 52.475422,69.630489
 52.475605,69.620018
 52.478324,69.614353
@@ -10322,17 +11074,21 @@
 52.466429,69.615598
 52.469201,69.619160
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Г. Щучинск</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>52.975470,70.135002
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Г. Щучинск</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>52.975470,70.135002
 52.978778,70.155602
 52.955412,70.181351
 52.949517,70.224953
@@ -10350,17 +11106,21 @@
 52.958204,70.154743
 52.969578,70.144787
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>Cт. Азат</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>53.568619,69.530625
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cт. Азат</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>53.568619,69.530625
 53.572951,69.541397
 53.568899,69.545603
 53.566784,69.539466
@@ -10368,17 +11128,21 @@
 53.555645,69.528437
 53.561227,69.524145
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>C. Красноводск</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.863997,69.677010
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>C. Красноводск</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.863997,69.677010
 51.868502,69.681602
 51.871232,69.679027
 51.872795,69.685335
@@ -10387,24 +11151,29 @@
 51.862619,69.689970
 51.859704,69.681988
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
-	<Placemark>
-		<name>с. Бесбидаик</name>
-		<color>df00ff00</color>
-		<Polygon>
-			<outerBoundaryIs>
-				<LinearRing>
-					<coordinates>51.309115,68.961740
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>с. Бесбидаик</name>
+			<visibility>1</visibility>
+			<styleUrl>zelen</styleUrl>
+			<Polygon>
+				<altitudeMode>clampToGround</altitudeMode>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>51.309115,68.961740
 51.315848,68.962641
 51.315338,68.976974
 51.303964,68.978305
 51.305359,68.961139
 </coordinates>
-				</LinearRing>
-			</outerBoundaryIs>
-		</Polygon>
-	</Placemark>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
 </kml>
